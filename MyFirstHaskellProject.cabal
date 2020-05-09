@@ -4,16 +4,16 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 1dc87a9ce3b6901bb7388e82ab444a9c29d9390da662662ad90ec3861a3d2ce1
+-- hash: e8eda2d5ea47642d861fd599187d1edd66af81d66699525327938f767aab1f1c
 
 name:           MyFirstHaskellProject
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/MyFirstHaskellProject#readme>
 homepage:       https://github.com/githubuser/MyFirstHaskellProject#readme
 bug-reports:    https://github.com/githubuser/MyFirstHaskellProject/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2020 Author name here
+author:         Salih Uysal
+maintainer:     esaeliha@gmail.com
+copyright:      Salih Uysal
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
