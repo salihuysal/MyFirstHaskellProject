@@ -1,6 +1,6 @@
 name: MyFirstHaskellProject
 version: 0.1.0.0
-github: "githubuser/MyFirstHaskellProject"
+github: "salihuysal/MyFirstHaskellProject"
 license: BSD3
 author: "Salih Uysal"
 maintainer: "esaeliha@gmail.com"
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description: Please see the README on GitHub at <https://github.com/githubuser/MyFirstHaskellProject#readme>
+description: Please see the README on GitHub at <https://github.com/salihuysal/MyFirstHaskellProject#readme>
 
 dependencies:
   - base >= 4.7 && < 5
@@ -46,3 +46,5 @@ tests:
       - -with-rtsopts=-N
     dependencies:
       - MyFirstHaskellProject
+      - hspec
+      - QuickCheck
